@@ -1,0 +1,10 @@
+# Runtime cache & lock files
+usage-cache.json
+git-cache.json
+transcript-cache.json
+speed-cache/
+.refresh.lock
+*.tmp
+
+# OS & editor files
+.DS_Store
